@@ -1,4 +1,3 @@
 # millis_servo
-서보제어와 밝기를 동시에하기
-
+millis 함수를 사용하여 서보모터와 LED를 가변저항으로 제어할 수 있다.
 ![servo](/servo_control.png)
